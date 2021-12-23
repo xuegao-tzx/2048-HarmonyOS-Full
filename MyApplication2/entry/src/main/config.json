@@ -1,10 +1,13 @@
 {
   "app": {
+    "apiVersion": {
+      "compatible": 3
+    },
     "bundleName": "com.xcl20481.myapplication",
     "vendor": "xcl20481",
     "version": {
       "code": 1000000,
-      "name": "1.0.1"
+      "name": "1.0.2"
     }
   },
   "deviceConfig": {
@@ -16,6 +19,11 @@
     "package": "com.xcl20481.myapplication",
     "name": ".MyApplication",
     "mainAbility": "com.xcl20481.myapplication.MainAbility",
+    "reqPermissions": [
+      {
+        "name": "ohos.permission.VIBRATE"
+      }
+    ],
     "deviceType": [
       "phone",
       "tablet",
@@ -52,6 +60,7 @@
     "js": [
       {
         "pages": [
+          "pages/page0/page0",
           "pages/index/index"
         ],
         "name": "default",

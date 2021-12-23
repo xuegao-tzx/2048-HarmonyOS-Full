@@ -1,0 +1,42 @@
+.container{
+    width: 227px;
+    height: 227px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    text-align: center;
+    width: 140px;
+    height: 62px;
+    letter-spacing: 0px;
+    font-size: 19px;
+    margin-top: 40px;
+    margin-bottom:3px;
+    color: #eb0750cb;
+}
+.title1 {
+    text-align: center;
+    width: 180px;
+    height: 150px;
+    font-size: 15.5px;
+    margin-top: 5px;
+    margin-bottom:5px;
+    color: #eb0597bb;
+}
+.btn{
+    width: 65.5px;
+    height: 35.5px;
+    background-color: #155ddc;
+    margin-top: 5px;
+    font-size: 13px;
+    margin-bottom: 3px;
+}
+.btn1{
+    width: 65.5px;
+    height: 35.5px;
+    background-color: #155ddc;
+    margin-top: 5px;
+    font-size: 13px;
+    margin-bottom: 5px;
+}

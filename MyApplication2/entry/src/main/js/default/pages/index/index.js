@@ -1,4 +1,5 @@
 import brightness from '@system.brightness';
+import vibrator from '@system.vibrator';
 let numbers,newNumbers;
 export default{
     data:{
@@ -108,7 +109,22 @@ export default{
         numbers=newNumbers;
     },
     isGameOver(){
-        if(this.isGridsFull()==true && this.isGridsNotMergeable()==true) return true;
+        if(this.isGridsFull()==true && this.isGridsNotMergeable()==true){
+            vibrator.vibrate({
+                mode: 'long',
+                success: function(ret) {
+                    console.log('vibrate is successful');
+                },
+                fail: function(ret) {
+                    console.log('vibrate is failed');
+                },
+                complete: function(ret) {
+                    console.log('vibrate is completed');
+                }
+            });
+            console.info('游戏结束');
+            return true;
+        }
     },
     isGridsFull(){
         if(numbers.indexOf(0)==-1){return true;}

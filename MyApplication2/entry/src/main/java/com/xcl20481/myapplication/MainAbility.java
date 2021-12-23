@@ -1,8 +1,6 @@
 package com.xcl20481.myapplication;
-
 import ohos.ace.ability.AceAbility;
 import ohos.aafwk.content.Intent;
-
 public class MainAbility extends AceAbility {
     @Override
     public void onStart(Intent intent) {

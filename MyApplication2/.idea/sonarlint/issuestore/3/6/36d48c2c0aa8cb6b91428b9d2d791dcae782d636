@@ -1,8 +1,8 @@
 
-wjavascript:S3776""TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ªù÷Ò8†¾ÕŞİ/
-ˆjavascript:S4165'"eReview this redundant assignment: "start" already holds the assigned value along all execution paths.(ÑÉşÔ8†¾ÕŞİ/
-ˆjavascript:S41651"eReview this redundant assignment: "start" already holds the assigned value along all execution paths.(ÑÉşÔ8‡¾ÕŞİ/
-Ejavascript:S1656R""'this.best' is assigned to itself.(íæè8ˆ¾ÕŞİ/
-Jjavascript:S1125Y"'Remove the unnecessary boolean literal.(ƒª¶Î8‰¾ÕŞİ/
-Ojavascript:S1125o"'Remove the unnecessary boolean literal.(¥Àµûıÿÿÿÿ8Š¾ÕŞİ/
-Ojavascript:S1125o"'Remove the unnecessary boolean literal.(¥Àµûıÿÿÿÿ8‹¾ÕŞİ/
+wjavascript:S3776#"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ªù÷Ò8†úì­Ş/
+ˆjavascript:S4165("eReview this redundant assignment: "start" already holds the assigned value along all execution paths.(ÑÉşÔ8‡úì­Ş/
+ˆjavascript:S41652"eReview this redundant assignment: "start" already holds the assigned value along all execution paths.(ÑÉşÔ8‡úì­Ş/
+Ejavascript:S1656S""'this.best' is assigned to itself.(íæè8ˆúì­Ş/
+Jjavascript:S1125Z"'Remove the unnecessary boolean literal.(ƒª¶Î8ˆúì­Ş/
+Jjavascript:S1125p"'Remove the unnecessary boolean literal.(Œ‹àâ8‰úì­Ş/
+Jjavascript:S1125p"'Remove the unnecessary boolean literal.(Œ‹àâ8‰úì­Ş/

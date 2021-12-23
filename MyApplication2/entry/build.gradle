@@ -13,9 +13,9 @@ ohos {
             certpath file('C:\\Users\\honor\\.ohos\\config\\auto_debug_myapplication_56657123.cer')
         }
     }
-    compileSdkVersion 5
+    compileSdkVersion 7
     defaultConfig {
-        compatibleSdkVersion 4
+        compatibleSdkVersion 6
     }
     buildTypes {
         release {
