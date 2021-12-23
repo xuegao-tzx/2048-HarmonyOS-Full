@@ -1,5 +1,6 @@
 import brightness from '@system.brightness';
 import vibrator from '@system.vibrator';
+import prompt from '@system.prompt';
 let numbers,newNumbers;
 export default{
     data:{
@@ -14,6 +15,18 @@ export default{
         this.tiles=[{text:""},{text:""},{text:""},{text:""},{text:""},{text:""},{text:""},{text:""},{text:""},{text:""},{text:""},{text:""},{text:""},{text:""},{text:""},{text:""}];
         numbers=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
         newNumbers=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+        vibrator.vibrate({
+            mode: 'short',
+            success: function(ret) {
+                console.log('tzx vibrate is successful');
+            },
+            fail: function(ret) {
+                console.log('tzx vibrate is failed');
+            },
+            complete: function(ret) {
+                console.log('tzx vibrate is completed');
+            }
+        });
         this.supplyNumber();
         this.supplyNumber();
         this.updateView();
@@ -31,6 +44,12 @@ export default{
         }else{
             newNumbers[positions[h]]=4;
         }
+    },
+    ToAbout(){
+        prompt.showToast({
+            message: '这是小草林开发的2048小游戏',
+            duration: 4567,
+        });
     },
     onSwipe(e) {
         newNumbers=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];

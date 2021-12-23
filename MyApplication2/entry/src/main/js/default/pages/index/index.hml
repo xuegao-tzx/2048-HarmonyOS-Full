@@ -6,7 +6,7 @@
         Score:{{score}}
     </text>
     <stack class="stack">
-        <div class="tile-wrap" onswipe="onSwipe">
+        <div class="tile-wrap" onswipe="onSwipe" onlongpress="ToAbout">
             <div class="tile" for="{{tiles}}" style="background-color:#000000">
                 <text class="text" style="color:#FFFFFF">
                     {{$item.text}}

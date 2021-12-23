@@ -20,13 +20,6 @@ export default {
                 break;
         }
     },
-    onlongpress(){
-        console.log('tzx 11');
-    prompt.showToast({
-      message: 'Message Info',
-      duration: 2000,
-    });
-    },
     ToStart(){
         vibrator.vibrate({
             mode: 'short',
@@ -42,17 +35,13 @@ export default {
         });
         prompt.showToast({
             message: '开始成功，By Xcl!',
-            duration: 3000,
+            duration: 3579,
         });
         router.replace({
             uri: "pages/index/index",
         });
     },
     ToClose(){
-        prompt.showToast({
-            message: '退出成功！',
-            duration: 3500,
-        });
         vibrator.vibrate({
             mode: 'short',
             success: function(ret) {
