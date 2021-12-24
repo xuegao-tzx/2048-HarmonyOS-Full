@@ -4,13 +4,13 @@ apply plugin: 'com.huawei.ohos.decctest'
 ohos {
     signingConfigs {
         debug {
-            storeFile file('C:\\Users\\honor\\.ohos\\config\\auto_debug_myapplication_56657123.p12')
-            storePassword '00000018ABED8099CAAA6EC570D4E456ABF55BBB47D8D1BE27C2F7E7A55EB2A5D81A3ECD28278B1C'
+            storeFile file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.p12')
+            storePassword '0000001856EA9B72DCD12C677995573A97D0C716FC9BB7125E89E37CF6A53AAF1671950486A02D87'
             keyAlias = 'debugKey'
-            keyPassword '000000182BFA80CB83594170D6A068FA249C80099F9B45A3650D15571AC7AA6789CBEA5CAAEEDF58'
+            keyPassword '0000001864EF071721F6AA68EE1B417DC789469C2CD5E46B0BBF6CA9B91450990764CAC390EE3A7C'
             signAlg = 'SHA256withECDSA'
-            profile file('C:\\Users\\honor\\.ohos\\config\\auto_debug_myapplication_56657123.p7b')
-            certpath file('C:\\Users\\honor\\.ohos\\config\\auto_debug_myapplication_56657123.cer')
+            profile file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.p7b')
+            certpath file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.cer')
         }
     }
     compileSdkVersion 7
