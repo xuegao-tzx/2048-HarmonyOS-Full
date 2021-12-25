@@ -5,9 +5,9 @@ ohos {
     signingConfigs {
         debug {
             storeFile file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.p12')
-            storePassword '0000001856EA9B72DCD12C677995573A97D0C716FC9BB7125E89E37CF6A53AAF1671950486A02D87'
+            storePassword '000000184687F86CE825B945C63332C663B49040D417619ED0F20979ACB29ACE21EE6BB17DEA1B44'
             keyAlias = 'debugKey'
-            keyPassword '0000001864EF071721F6AA68EE1B417DC789469C2CD5E46B0BBF6CA9B91450990764CAC390EE3A7C'
+            keyPassword '0000001865A11CDD718E32FF669EE7AD4AAB69761F5E7492D75D7FE30C0192AF12585B4EC9F4A770'
             signAlg = 'SHA256withECDSA'
             profile file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.p7b')
             certpath file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.cer')

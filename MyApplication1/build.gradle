@@ -6,15 +6,15 @@ ohos {
     signingConfigs {
         debug {
             storeFile file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.p12')
-            storePassword '000000188550E520D1D35E8FA4F11D913FBD84D3F631AB50FAD45494E67F834DC8EBADEC664EB7BF'
+            storePassword '000000189845B89E9938FEEBFE701FAEAC25439ED8DE6F976636C812F590E90DEF8C2D7240F79BEA'
             keyAlias = 'debugKey'
-            keyPassword '000000183BB9640897FE212C7B0BBB75A795F44DC2B183C86F3420C3404261768A94E422D7582A45'
+            keyPassword '00000018F7C68D0AD0D2776537D282AB0031F7235FF3D835EAC2ABA317D122EE3C2FD3679146F82A'
             signAlg = 'SHA256withECDSA'
             profile file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.p7b')
             certpath file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.cer')
         }
     }
-    compileSdkVersion 5
+    compileSdkVersion 6
 }
 
 buildscript {

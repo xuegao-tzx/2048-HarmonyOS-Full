@@ -1,13 +1,13 @@
 {
   "app": {
     "apiVersion": {
-      "compatible": 3
+      "compatible": 5
     },
     "bundleName": "com.xcl20481.myapplication",
-    "vendor": "xcl20481",
+    "vendor": "2048",
     "version": {
       "code": 1000000,
-      "name": "1.1.0"
+      "name": "1.1.2"
     }
   },
   "deviceConfig": {
@@ -17,7 +17,7 @@
   },
   "module": {
     "package": "com.xcl20481.myapplication",
-    "name": ".MyApplication",
+    "name": "com.xcl20481.myapplication.MyApplication",
     "mainAbility": "com.xcl20481.myapplication.MainAbility",
     "reqPermissions": [
       {
