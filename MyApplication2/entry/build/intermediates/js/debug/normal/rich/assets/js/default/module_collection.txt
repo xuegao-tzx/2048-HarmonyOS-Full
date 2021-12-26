@@ -1,0 +1,1 @@
+system.router,system.app,system.brightness,system.vibrator,system.prompt,system.brightness,system.vibrator,system.prompt
