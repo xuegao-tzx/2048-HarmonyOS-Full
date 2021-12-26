@@ -1,0 +1,78 @@
+{
+    "app": {
+        "bundleName": "com.xcl20481.myapplication",
+        "vendor": "xcl20481",
+        "apiVersion": {
+            "compatible": 6,
+            "target": 7,
+            "releaseType": "Beta1"
+        },
+        "version": {
+            "code": 1000000,
+            "name": "1.1.0"
+        }
+    },
+    "deviceConfig": {
+        "default": {
+            "keepAlive": true,
+            "debug": true
+        }
+    },
+    "module": {
+        "name": ".MyApplication",
+        "deviceType": [
+            "phone",
+            "tablet",
+            "tv",
+            "wearable"
+        ],
+        "distro": {
+            "deliveryWithInstall": true,
+            "moduleName": "entry",
+            "moduleType": "entry",
+            "installationFree": false
+        },
+        "abilities": [
+            {
+                "name": "com.xcl20481.myapplication.MainAbility",
+                "description": "$string:mainability_description",
+                "icon": "$media:icon2",
+                "label": "$string:xcl2048",
+                "type": "page",
+                "launchType": "standard",
+                "visible": true,
+                "skills": [
+                    {
+                        "actions": [
+                            "action.system.home"
+                        ],
+                        "entities": [
+                            "entity.system.home"
+                        ]
+                    }
+                ],
+                "homeAbility": true
+            }
+        ],
+        "js": [
+            {
+                "name": "default",
+                "pages": [
+                    "pages/page0/page0",
+                    "pages/index/index"
+                ],
+                "window": {
+                    "designWidth": 720,
+                    "autoDesignWidth": true
+                }
+            }
+        ],
+        "reqPermissions": [
+            {
+                "name": "ohos.permission.VIBRATE"
+            }
+        ],
+        "mainAbility": "com.xcl20481.myapplication.MainAbility",
+        "package": "com.xcl20481.myapplication"
+    }
+}

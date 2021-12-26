@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdfa9fc7-52d4-4664-93d6-b2410bd9b936" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10f965cf51fe14a5ef0ca2ebefb1bd7e4607eeb2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36d48c2c0aa8cb6b91428b9d2d791dcae782d636" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3bb84a6effd773d95ed647597ffe3ad387fdfbcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/6288971498872deb62c5e285d192d813e22b1c1c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bded84c8d7c3dc43c805144b684b7e76d317f963" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e76da2df200fc79b254b005f068d568bf8c2b7ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb4272ef57a8e412e241acf56c46fd3c2ccd3848" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/js/default/pages/index/index.hml" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/js/default/pages/index/index.hml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/js/default/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/js/default/pages/index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/js/default/pages/page0/page0.js" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/js/default/pages/page0/page0.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HiLogFilter">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="tzx" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_USE_AS_REGEX" value="false" />
+  </component>
+  <component name="ProjectId" id="22f7HjDgTiDuohs6eUVtgoz50AT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.ide.version" value="3.0.0.601" />
+    <property name="project.structure.select" value="Modules" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="HarmonyOS App.entry">
+    <configuration name="entry" type="OhosDebugTask" factoryName="HarmonyOS App" activateToolWindowBeforeRun="false">
+      <module name="entry" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto />
+      <Dual />
+      <DualJs />
+      <Java />
+      <Js />
+      <Native />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <REINSTALL_APPLICATION>false</REINSTALL_APPLICATION>
+      <method v="2">
+        <option name="Ohos.Build.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Super App" type="OhosSuperAppDebugTask" factoryName="HarmonyOS Super App">
+      <method v="2">
+        <option name="Ohos.Build.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdfa9fc7-52d4-4664-93d6-b2410bd9b936" name="Default Changelist" comment="" />
+      <created>1640216706138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640216706138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom" timestamp="1640269193065">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1640269193065" />
+    <state width="1493" height="140" key="GridCell.Tab.0.center" timestamp="1640269193064">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1640269193064" />
+    <state width="1493" height="140" key="GridCell.Tab.0.left" timestamp="1640269193064">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1640269193064" />
+    <state width="1493" height="140" key="GridCell.Tab.0.right" timestamp="1640269193064">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1640269193064" />
+    <state x="320" y="94" width="950" height="693" key="SettingsEditor" timestamp="1640269206173">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="320" y="94" width="950" height="693" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1640269206173" />
+    <state x="461" y="277" key="edit.logcat.filter.dialog.dimensions" timestamp="1640243936439">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="461" y="277" key="edit.logcat.filter.dialog.dimensions/0.0.1536.834@0.0.1536.834" timestamp="1640243936439" />
+  </component>
+</project>
