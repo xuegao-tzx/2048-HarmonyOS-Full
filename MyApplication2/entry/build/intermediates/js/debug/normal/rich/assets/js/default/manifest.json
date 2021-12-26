@@ -1,0 +1,20 @@
+{
+    "appID": "com.xcl20481.myapplication",
+    "appName": "$string:xcl2048",
+    "versionName": "1.0.1",
+    "versionCode": 1000000,
+    "minPlatformVersion": 4,
+    "pages": [
+        "pages/index/index"
+    ],
+    "deviceType": [
+        "phone",
+        "tablet",
+        "tv",
+        "wearable"
+    ],
+    "window": {
+        "autoDesignWidth": true,
+        "designWidth": 720
+    }
+}

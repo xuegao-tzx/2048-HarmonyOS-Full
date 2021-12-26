@@ -1,0 +1,18 @@
+[
+    {
+        "hapPath": "entry-release-rich-signed.hap",
+        "device": "phone"
+    },
+    {
+        "hapPath": "entry-release-rich-signed.hap",
+        "device": "tablet"
+    },
+    {
+        "hapPath": "entry-release-rich-signed.hap",
+        "device": "tv"
+    },
+    {
+        "hapPath": "entry-release-rich-signed.hap",
+        "device": "wearable"
+    }
+]

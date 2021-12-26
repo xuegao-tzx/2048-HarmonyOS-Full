@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a486032-3093-4668-a274-44da2436ed90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="HiLogFilter">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ProjectId" id="22aDEY728fBYgpevTAMyVifSALz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SAVED_PROJECT_CPP_SUPPORT" value="non-cpp" />
+    <property name="auto_debug_app_id" value="786806777898347328" />
+    <property name="auto_debug_bundleName" value="myapplication" />
+    <property name="auto_debug_cert_list" value="786837812308627456" />
+    <property name="auto_debug_device_list" value="786837178230525952 786730456077848576 14005787714578901339 14005787714578876729 14005787714578876728" />
+    <property name="auto_debug_team_id" value="56657123" />
+    <property name="last_csr_path" value="C:\Users\honor\key\xcl2048.csr" />
+    <property name="last_keystore_path" value="C:\Users\honor\key\xcl2048.p12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/entry/src/main/resources/base/media" />
+    <property name="project.ide.version" value="3.0.0.601" />
+    <property name="project.structure.select" value="Project" />
+    <property name="settings.editor.selected.configurable" value="SdkWebView" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ohos.template.packageName">
+      <recent name="com.xcl20481.myapplication" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\MyApplication2\entry\src\main\resources\base\media" />
+    </key>
+  </component>
+  <component name="RunManager" selected="HarmonyOS App.entry">
+    <configuration name="entry" type="OhosDebugTask" factoryName="HarmonyOS App" activateToolWindowBeforeRun="false">
+      <module name="entry" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto />
+      <Dual />
+      <DualJs />
+      <Java />
+      <Js />
+      <Native />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <REINSTALL_APPLICATION>false</REINSTALL_APPLICATION>
+      <method v="2">
+        <option name="Ohos.Build.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Super App" type="OhosSuperAppDebugTask" factoryName="HarmonyOS Super App">
+      <method v="2">
+        <option name="Ohos.Build.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a486032-3093-4668-a274-44da2436ed90" name="Default Changelist" comment="" />
+      <created>1640066695579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640066695579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1640072825832">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1640072825832" />
+    <state x="549" y="144" key="FileChooserDialogImpl" timestamp="1640068421727">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="144" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1640068421727" />
+    <state width="746" height="171" key="GridCell.Tab.0.bottom" timestamp="1640073696680">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="171" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1640073696680" />
+    <state width="746" height="171" key="GridCell.Tab.0.center" timestamp="1640073696680">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="171" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1640073696680" />
+    <state width="746" height="171" key="GridCell.Tab.0.left" timestamp="1640073696679">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="171" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1640073696679" />
+    <state width="746" height="171" key="GridCell.Tab.0.right" timestamp="1640073696680">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="171" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1640073696680" />
+    <state x="93" y="93" width="1350" height="648" key="HVDManager" timestamp="1640071296659">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="HVDManager/0.0.1536.834@0.0.1536.834" timestamp="1640071296659" />
+    <state x="369" y="127" width="950" height="707" key="SettingsEditor" timestamp="1640070395207">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="369" y="127" width="950" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1640070395207" />
+  </component>
+</project>

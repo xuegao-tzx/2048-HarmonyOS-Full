@@ -1,0 +1,75 @@
+{
+    "app": {
+        "apiVersion": {
+            "compatible": 4,
+            "releaseType": "Release",
+            "target": 5
+        },
+        "vendor": "xcl20481",
+        "bundleName": "com.xcl20481.myapplication",
+        "version": {
+            "code": 1000000,
+            "name": "1.0.1"
+        }
+    },
+    "deviceConfig": {
+        "default": {
+            "debug": true,
+            "keepAlive": true
+        }
+    },
+    "module": {
+        "abilities": [
+            {
+                "iconId": 16777219,
+                "skills": [
+                    {
+                        "entities": [
+                            "entity.system.home"
+                        ],
+                        "actions": [
+                            "action.system.home"
+                        ]
+                    }
+                ],
+                "descriptionId": 16777216,
+                "visible": true,
+                "labelId": 16777217,
+                "icon": "$media:icon2",
+                "name": "com.xcl20481.myapplication.MainAbility",
+                "description": "$string:mainability_description",
+                "label": "$string:xcl2048",
+                "type": "page",
+                "homeAbility": true,
+                "launchType": "standard"
+            }
+        ],
+        "deviceType": [
+            "phone",
+            "tablet",
+            "tv",
+            "wearable"
+        ],
+        "mainAbility": "com.xcl20481.myapplication.MainAbility",
+        "distro": {
+            "moduleType": "entry",
+            "installationFree": false,
+            "deliveryWithInstall": true,
+            "moduleName": "entry"
+        },
+        "package": "com.xcl20481.myapplication",
+        "name": ".MyApplication",
+        "js": [
+            {
+                "pages": [
+                    "pages/index/index"
+                ],
+                "name": "default",
+                "window": {
+                    "designWidth": 720,
+                    "autoDesignWidth": true
+                }
+            }
+        ]
+    }
+}
