@@ -8,8 +8,6 @@ Aentry/src/main/java/com/xcl20481/myapplication/MyApplication.java,1\5\15c2c237
 P
  entry/src/main/js/default/app.js,b\4\b4c4e536f4084a0b6a45f8b0d2725567135b92e6
 ^
-.entry/src/main/js/default/pages/index/index.js,3\6\36d48c2c0aa8cb6b91428b9d2d791dcae782d636
-^
 .entry/src/main/js/default/pages/page0/page0.js,e\7\e76da2df200fc79b254b005f068d568bf8c2b7ec
 J
 entry/src/main/config.json,1\0\10f965cf51fe14a5ef0ca2ebefb1bd7e4607eeb2
@@ -21,3 +19,5 @@ _
 /entry/src/main/js/default/pages/page0/page0.hml,6\2\6288971498872deb62c5e285d192d813e22b1c1c
 _
 /entry/src/main/js/default/pages/index/index.hml,e\b\eb4272ef57a8e412e241acf56c46fd3c2ccd3848
+^
+.entry/src/main/js/default/pages/index/index.js,3\6\36d48c2c0aa8cb6b91428b9d2d791dcae782d636
