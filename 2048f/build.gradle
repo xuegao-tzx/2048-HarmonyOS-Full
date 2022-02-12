@@ -5,13 +5,13 @@ apply plugin: 'com.huawei.ohos.app'
 ohos {
     signingConfigs {
         debug {
-            storeFile file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.p12')
-            storePassword '000000189845B89E9938FEEBFE701FAEAC25439ED8DE6F976636C812F590E90DEF8C2D7240F79BEA'
-            keyAlias = 'debugKey'
-            keyPassword '00000018F7C68D0AD0D2776537D282AB0031F7235FF3D835EAC2ABA317D122EE3C2FD3679146F82A'
+            storeFile file('D:\\Gitlab\\Calculator-HarmonyOS-Full\\HOCal\\key\\xclcal.p12')
+            storePassword '000000188445F98C50F77AD54D972EA8AF7C844B45D0040328A695CE74C9E893C34FD7C935FAF115'
+            keyAlias = 'xclcal'
+            keyPassword '00000018D9A8F298ADDF68272A0002370AC7C39FA90960B724D294E85DBEE3E55D4B5522B1E6CC80'
             signAlg = 'SHA256withECDSA'
-            profile file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.p7b')
-            certpath file('C:\\Users\\lenovo\\.ohos\\config\\auto_debug_myapplication_56657123.cer')
+            profile file('D:\\Downloads\\xcl20481Debug.p7b')
+            certpath file('D:\\Gitlab\\Calculator-HarmonyOS-Full\\HOCal\\key\\xclcald.cer')
         }
     }
     compileSdkVersion 6
@@ -27,8 +27,8 @@ buildscript {
         }
     }
     dependencies {
-        classpath 'com.huawei.ohos:hap:3.0.3.4'
-        classpath 'com.huawei.ohos:decctest:1.2.6.0'
+        classpath 'com.huawei.ohos:hap:3.0.5.2'
+        classpath 'com.huawei.ohos:decctest:1.2.7.2'
     }
 }
 

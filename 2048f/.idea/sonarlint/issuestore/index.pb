@@ -11,8 +11,6 @@ P
 .entry/src/main/js/default/pages/index/index.js,3\6\36d48c2c0aa8cb6b91428b9d2d791dcae782d636
 ^
 .entry/src/main/js/default/pages/page0/page0.js,e\7\e76da2df200fc79b254b005f068d568bf8c2b7ec
-J
-entry/src/main/config.json,1\0\10f965cf51fe14a5ef0ca2ebefb1bd7e4607eeb2
 _
 /entry/src/main/js/default/pages/page0/page0.css,3\b\3bb84a6effd773d95ed647597ffe3ad387fdfbcf
 _
@@ -21,3 +19,11 @@ _
 /entry/src/main/js/default/pages/page0/page0.hml,6\2\6288971498872deb62c5e285d192d813e22b1c1c
 _
 /entry/src/main/js/default/pages/index/index.hml,e\b\eb4272ef57a8e412e241acf56c46fd3c2ccd3848
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+J
+entry/src/main/config.json,1\0\10f965cf51fe14a5ef0ca2ebefb1bd7e4607eeb2
+B
+entry/build.gradle,a\d\ad38b2dea33752cac233aa09d7dfbe582e9dded6

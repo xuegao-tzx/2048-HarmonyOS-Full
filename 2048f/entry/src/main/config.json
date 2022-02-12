@@ -1,7 +1,7 @@
 {
   "app": {
     "apiVersion": {
-      "compatible": 5
+      "compatible": 6
     },
     "bundleName": "com.xcl20481.myapplication",
     "vendor": "2048",
@@ -21,7 +21,8 @@
     "mainAbility": "com.xcl20481.myapplication.MainAbility",
     "reqPermissions": [
       {
-        "name": "ohos.permission.VIBRATE"
+        "name": "ohos.permission.VIBRATE",
+        "reason": "用于长按振动反馈"
       }
     ],
     "deviceType": [
@@ -35,6 +36,15 @@
       "moduleName": "entry",
       "moduleType": "entry",
       "installationFree": false
+    },
+    "metaData": {
+      "customizeData": [
+        {
+          "name": "hwc-theme",
+          "extra": "",
+          "value": "androidhwext:style/Theme.Emui.Translucent.NoTitleBar"
+        }
+      ]
     },
     "abilities": [
       {
@@ -50,7 +60,7 @@
         ],
         "visible": true,
         "name": "com.xcl20481.myapplication.MainAbility",
-        "icon": "$media:icon2",
+        "icon": "$media:icon",
         "description": "$string:mainability_description",
         "label": "$string:xcl2048",
         "type": "page",
